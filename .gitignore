@@ -1,0 +1,7 @@
+app/*.pdf
+app/pdf/a.pdf
+*.pdf
+app/**/*.pdf
+app/
+
+config/application.yml
